@@ -1,7 +1,5 @@
 Alongside the well-known Repeater and Intruder rooms, Burp Suite also has several slightly more obscure modules built-in: these are what we will be covering in this room.
-
 Specifically, we will be looking at the Decoder, Comparer and Sequencer tools. These allow us to: work with encoded text; compare sets of text; and analyse the randomness of captured tokens, respectively. Being able to perform these relatively straightforward tasks directly within Burp Suite can save a lot of time, so it is well worth the time spent learning to use these modules efficiently.
-
 Without further ado, let's jump in and start looking at Decoder!
 
 
