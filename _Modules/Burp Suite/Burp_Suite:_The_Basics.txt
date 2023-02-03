@@ -1,0 +1,86 @@
+This room will cover the foundations of using the Burp Suite web application framework.
+Specifically, we will be looking at:
+
+What Burp Suite is
+An overview of the available tools in the framework
+Installing Burp Suite for yourself
+Navigating and configuring Burp Suite.
+We will also be introducing the core of the Burp Suite framework: the Burp Proxy. This room is primarily designed to provide a foundational knowledge of Burp Suite which can then be built upon further in the other rooms of the Burp module; as such, it will be a lot heavier in theory than subsequent rooms, which take more of a practical approach. You are advised to read the information here and follow along yourself with a copy of the tool if you haven't used Burp Suite before. Experimentation is key: use this information in tandem with playing around with the app for yourself to build a foundation for using the framework, which can then be built upon in later rooms.
+
+Let's begin!
+
+
+Task 2
+Answer the questions below
+
+Which edition of Burp Suite will we be using in this module?
+Answer: Burp Suite Community
+
+Which edition of Burp Suite runs on a server and provides constant scanning for target web apps?
+Answer: Burp Suite Enterprise
+
+Burp Suite is frequently used when attacking web applications and ______ applications.
+Answer: Mobile
+
+
+Task 3
+Answer the questions below
+
+Which Burp Suite feature allows us to intercept requests between ourselves and the target?
+Answer: Proxy
+
+Which Burp tool would we use if we wanted to bruteforce a login form?
+Answer: Intruder
+
+
+Task 7
+Answer the questions below
+
+In which Project options sub-tab can you find reference to a "Cookie jar"?
+Answer: Sessions
+
+In which User options sub-tab can you change the Burp Suite update behaviour?
+Answer: Misc
+
+What is the name of the section within the User options "Misc" sub-tab which allows you to change the Burp Suite keybindings?
+Answer: Hotkeys
+
+If we have uploaded Client-Side TLS certificates in the User options tab, can we override these on a per-project basis (Aye/Nay)?
+Answer: Aye
+
+
+Task 8
+Answer the questions below
+
+Which button would we choose to send an intercepted request to the target in Burp Proxy?
+Answer: Forward
+
+[Research] What is the default keybind for this?
+Note: Assume you are using Windows or Linux (i.e. swap Cmd for Ctrl).
+Answer: Ctrl+F
+
+
+Task 9
+Answer the questions below
+
+Read through the options in the right-click menu.
+There is one particularly useful option that allows you to intercept and modify the response to your request.
+What is this option?
+Note: The option is in a dropdown sub-menu.
+Answer: Response to this request
+
+
+Task 13
+Answer the questions below
+
+What is the flag you receive?
+Answer: THM{NmNlZTliNGE1MWU1ZTQzMzgzNmFiNWVk}
+
+Look through the Issue Definitions list.
+What is the typical severity of a Vulnerable JavaScript dependency?
+Answer: Low
+
+
+We have now reached the end of the Burp Basics room.
+This room has hopefully given you a good grasp of the Burp Suite interface and configuration options, as well as giving you a working knowledge of the Burp Proxy.
+You are advised to experiment with these foundations until you are completely comfortable with them. Burp Suite is an invaluable tool in a web or mobile application pentester's arsenal. We will be building on these skills in the next room of the module covering Burp Suite Repeater.

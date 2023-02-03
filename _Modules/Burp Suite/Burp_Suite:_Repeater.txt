@@ -1,0 +1,33 @@
+Having covered the basics of using Burp Suite, this room will dive into one of the more powerful aspects of the framework, namely: the Burp Suite Repeater module.
+We will be covering how to use Repeater to manipulate and arbitrarily resend captured requests, as well as looking at some of the niftier options available in this awesome tool. Finally, we will encounter a series of examples, including a real-world, extra-mile exercise which we will use to consolidate the more theoretical aspects of the room.
+If you have not used Burp Suite before and have not completed the Burp Basics room, you may wish to do so now before continuing, as this room builds on the foundations covered there.
+
+
+Task 4
+Answer the questions below
+
+Which view option displays the response in the same format as your browser would?
+Answer: Render
+
+
+Task 6
+Answer the questions below
+
+Send the request. What is the flag you receive?
+Answer: THM{Yzg2MWI2ZDhlYzdlNGFiZTUzZTIzMzVi}
+
+
+Task 7
+Answer the questions below
+
+See if you can get the server to error out with a "500 Internal Server Error" code by changing the number at the end of the request to extreme inputs.
+What is the flag you receive when you cause a 500 error in the endpoint?
+Answer: THM{N2MzMzFhMTA1MmZiYjA2YWQ4M2ZmMzhl}
+
+
+Task 8
+Answer the questions below
+
+Exploit the union SQL injection vulnerability in the site.
+What is the flag?
+Answer: THM{ZGE3OTUyZGMyMzkwNjJmZjg3Mzk1NjJh}
