@@ -1,0 +1,1 @@
+Learn the core components of a red team engagement, from threat intelligence to OPSEC and C2s.

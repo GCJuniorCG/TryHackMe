@@ -1,0 +1,1 @@
+Understand the techniques behind host-based security and bypass the most common security products in Windows operating systems.

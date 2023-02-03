@@ -1,0 +1,1 @@
+Cryptography is essential in security. Learn how its used to preserve integrity and confidentiality of sensitive information.

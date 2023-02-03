@@ -1,0 +1,1 @@
+Learn Defensive Security by using digital forensics in an investigation and applying security operations to stop a live cyber attack.

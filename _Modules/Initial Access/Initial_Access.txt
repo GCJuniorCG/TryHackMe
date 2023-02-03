@@ -1,0 +1,1 @@
+Explore the different techniques to gain initial access to a target system and network from a Red Teamer’s perspective.

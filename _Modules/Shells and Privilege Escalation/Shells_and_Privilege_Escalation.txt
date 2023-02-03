@@ -1,0 +1,1 @@
+Once you have initial access on a machine, learn how to escalate your account privileges to root.

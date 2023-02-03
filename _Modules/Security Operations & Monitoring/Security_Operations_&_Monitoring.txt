@@ -1,0 +1,1 @@
+Learn how to configure and utilise tooling to ensure that suspicious activity is quickly identified and dealt with in your environment.

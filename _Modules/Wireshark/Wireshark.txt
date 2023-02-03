@@ -1,0 +1,1 @@
+Wireshark is the industry-standard tool for network protocol analysis and is essential in any kind of traffic investigation.

@@ -1,0 +1,1 @@
+This room covers various Active Directory enumeration techniques, their use cases as well as drawbacks.
