@@ -1,0 +1,11 @@
+Welcome to the Burp Suite Extender room!
+This room will focus on Burp Suite's modular aspects: the exposed functionality, which allows developers to craft extra additional modules for the framework.
+Coding Burp modules is far outwith the scope of this module, but we will take a quick look at the API documentation, as well as going over the typical process for adding new modules using the Burp Suite "BApp" store.
+You will not need the target machine to complete this room, but you should ensure that you have access to a copy of Burp Suite. If you are using the AttackBox, make sure to start it now.
+
+
+Task 2
+Answer the questions below
+
+Are extensions invoked in ascending (A) or descending (D) order?
+Answer: D
