@@ -1,0 +1,72 @@
+In previous rooms of this module, we have covered Burp Suite's Proxy and Repeater functionality. If you have not completed these rooms and are not familiar with these aspects of the framework, then you are advised to complete at least the Burp Basics room before proceeding.
+This room will cover the third of Burp Suite's primary modules: Intruder.
+Intruder allows us to automate requests, which is very useful when fuzzing or bruteforcing. We will be looking at how to use Intruder to perform both of these functions in conjunction with the other tools we have already covered.
+Let's begin!
+
+Task 2
+Answer the questions below
+
+Which section of the Options sub-tab allows you to control what information will be captured in the Intruder results?
+Answer: Attack Results
+
+In which Intruder sub-tab can we define the "Attack type" for our planned attack?
+Answer: Positions
+
+
+Task 5
+Answer the questions below
+
+If you were using Sniper to fuzz three parameters in a request, with a wordlist containing 100 words, how many requests would Burp Suite need to send to complete the attack?
+Answer: 300
+
+How many sets of payloads will Sniper accept for conducting an attack?
+Answer: 1
+
+Sniper is good for attacks where we are only attacking a single parameter, aye or nay?
+Answer: aye
+
+
+Task 6
+Answer the questions below
+
+As a hypothetical question: you need to perform a Battering Ram Intruder attack on the example request above.
+If you have a wordlist with two words in it (admin and Guest) and the positions in the request template look like this:
+username=§pentester§&password=§Expl01ted§
+What would the body parameters of the first request that Burp Suite sends be?
+Answer: username=admin&password=admin
+
+
+Task 7
+Answer the questions below
+
+What is the maximum number of payload sets we can load into Intruder in Pitchfork mode?
+Answer: 20
+
+
+Task 8
+Answer the questions below
+
+We have three payload sets. The first set contains 100 lines; the second contains 2 lines; and the third contains 30 lines.
+How many requests will Intruder make using these payload sets in a Cluster Bomb attack?
+Answer: 6000
+
+
+Task 9
+Answer the questions below
+
+Which payload type lets us load a list of words into a payload set?
+Answer: Simple List
+
+Which Payload Processing rule could we use to add characters at the end of each payload in the set?
+Answer: Add suffix
+
+
+Task 11
+Answer the questions below
+
+Which attack type is best suited for this task?
+Answer: Sniper
+
+Either using the Response tab in the Attack Results window or by looking at each successful (i.e. 200 code) request manually in your browser, find the ticket that contains the flag.
+What is the flag?
+Answer: THM{MTMxNTg5NTUzMWM0OWRlYzUzMDVjMzJl}
