@@ -1,0 +1,46 @@
+In this room, we will learn about different ways website authentication methods can be bypassed, defeated or broken. These vulnerabilities can be some of the most critical as it often ends in leaks of customers personal data.
+
+
+Task 2
+Answer the questions below
+
+What is the username starting with si*** ?
+Answer: simon
+
+What is the username starting with st*** ?
+Answer: steve
+
+What is the username starting with ro**** ?
+Answer: robert
+
+
+Task 3
+Answer the questions below
+
+What is the valid username and password (format: username/password)?
+Answer: steve/thunder
+
+
+
+Task 4
+Answer the questions below
+
+What is the flag from Robert's support ticket?
+Answer: THM{AUTH_BYPASS_COMPLETE}
+
+
+
+Task 5
+Answer the questions below
+
+What is the flag from changing the plain text cookie values?
+Answer: THM{COOKIE_TAMPERING}
+
+What is the value of the md5 hash 3b2a1053e3270077456a79192070aa78 ?
+Answer: 463729
+
+What is the base64 decoded value of VEhNe0JBU0U2NF9FTkNPRElOR30= ?
+Answer: THM{BASE64_ENCODING}
+
+Encode the following value using base64 {"id":1,"admin":true}
+Answer: eyJpZCI6MSwiYWRtaW4iOnRydWV9
