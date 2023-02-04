@@ -1,0 +1,80 @@
+SQL (Structured Query Language) Injection, mostly referred to as SQLi, is an attack on a web application database server that causes malicious queries to be executed. When a web application communicates with a database using input from a user that hasn't been properly validated, there runs the potential of an attacker being able to steal, delete or alter private and customer data and also attack the web applications authentication methods to private or customer areas. This is why as well as SQLi being one of the oldest web application vulnerabilities, it also can be the most damaging.
+
+
+Task 1
+Answer the questions below
+
+What does SQL stand for?
+Answer: Structured Query Language
+
+
+Task 2
+Answer the questions below
+
+What is the acronym for the software that controls a database?
+Answer: DBMS
+
+What is the name of the grid-like structure which holds the data?
+Answer: table
+
+
+Task 3
+Answer the questions below
+
+What SQL statement is used to retrieve data?
+Answer: SELECT
+
+What SQL clause can be used to retrieve data from multiple tables?
+Answer: UNION
+
+What SQL statement is used to add data?
+Answer: INSERT
+
+
+Task 4
+Answer the questions below
+
+What character signifies the end of an SQL query?
+Answer: ;
+
+
+Task 5
+Answer the questions below
+
+What is the flag after completing level 1?
+Answer: THM{SQL_INJECTION_3840}
+
+
+Task 6
+Answer the questions below
+
+What is the flag after completing level two? (and moving to level 3)
+Answer: THM{SQL_INJECTION_9581}
+
+
+Task 7
+Answer the questions below
+
+What is the flag after completing level three?
+Answer: THM{SQL_INJECTION_1093}
+
+
+Task 8
+Answer the questions below
+
+What is the final flag after completing level four?
+Answer: THM{SQL_INJECTION_MASTER}
+
+
+Task 9
+Answer the questions below
+
+Name a protocol beginning with D that can be used to exfiltrate data from a database.
+Answer: DNS
+
+
+Task 10
+Answer the questions below
+
+Name a method of protecting yourself from an SQL Injection exploit.
+Answer: Prepared Statements
