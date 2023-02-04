@@ -1,0 +1,47 @@
+What is an IDOR?
+IDOR stands for Insecure Direct Object Reference and is a type of access control vulnerability.
+
+
+Task 1
+Answer the questions below
+
+What does IDOR stand for?
+Answer: Insecure Direct Object Reference
+
+
+Task 2
+Answer the questions below
+
+What is the Flag from the IDOR example website?
+Answer: THM{IDOR-VULN-FOUND}
+
+
+Task 3
+Answer the questions below
+
+What is a common type of encoding used by websites?
+Answer: base64
+
+
+Task 4
+Answer the questions below
+
+What is a common algorithm used for hashing IDs?
+Answer: md5
+
+
+Task 5
+Answer the questions below
+
+What is the minimum number of accounts you need to create to check for IDORs between accounts?
+Answer: 2
+
+
+Task 7
+Answer the questions below
+
+What is the username for user id 1?
+Answer: adam84
+
+What is the email address for user id 3?
+Answer: j@fakemail.thm
