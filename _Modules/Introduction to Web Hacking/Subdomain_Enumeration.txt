@@ -1,0 +1,52 @@
+Subdomain enumeration is the process of finding valid subdomains for a domain, but why do we do this? We do this to expand our attack surface to try and discover more potential points of vulnerability.
+
+
+Task 1
+Answer the questions below
+
+What is a subdomain enumeration method beginning with B?
+Answer: Brute Force
+
+What is a subdomain enumeration method beginning with O?
+Answer: OSINT
+
+What is a subdomain enumeration method beginning with V?
+Answer: Virtual Host
+
+
+Task 2
+Answer the questions below
+
+What domain was logged on crt.sh at 2020-12-26?
+Answer: store.tryhackme.com
+
+
+Task 3
+Answer the questions below
+
+What is the TryHackMe subdomain beginning with B discovered using the above Google search?
+Answer: blog.tryhackme.com
+
+
+Task 4
+Answer the questions below
+
+What is the first subdomain found with the dnsrecon tool?
+Answer: api.acmeitsupport.thm
+
+
+Task 5
+Answer the questions below
+
+What is the first subdomain discovered by sublist3r?
+Answer: web55.acmeitsupport.thm
+
+
+Task 6
+Answer the questions below
+
+What is the first subdomain discovered?
+Answer: delta
+
+What is the second subdomain discovered?
+Answer: yellow
