@@ -1,0 +1,63 @@
+Cross-Site Scripting, better known as XSS in the cybersecurity community, is classified as an injection attack where malicious JavaScript gets injected into a web application with the intention of being executed by other users. In this room, you'll learn about the different XSS types, how to create XSS payloads, how to modify your payloads to evade filters, and then end with a practical lab where you can try out your new skills.
+
+
+Task 1
+Answer the questions below
+
+What does XSS stand for?
+Answer: Cross-Site Scripting
+
+
+Task 2
+Answer the questions below
+
+Which document property could contain the user's session token?
+Answer: document.cookie
+
+Which JavaScript method is often used as a Proof Of Concept?
+Answer: alert
+
+
+Task 3
+Answer the questions below
+
+Where in an URL is a good place to test for reflected XSS?
+Answer: parameters
+
+
+Task 4
+Answer the questions below
+
+How are stored XSS payloads usually stored on a website?
+Answer: database
+
+
+Task 5
+Answer the questions below
+
+What unsafe JavaScript method is good to look for in source code?
+Answer: eval()
+
+
+Task 6
+Answer the questions below
+
+What tool can you use to test for Blind XSS?
+Answer: xsshunter
+
+What type of XSS is very similar to Blind XSS?
+Answer: Stored XSS
+
+
+Task 7
+Answer the questions below
+
+What is the flag you received from level six?
+Answer: THM{XSS_MASTER}
+
+
+Task 8
+Answer the questions below
+
+What is the value of the staff-session cookie?
+Answer: 4AB305E55955197693F01D6F8FD2D321
