@@ -1,0 +1,38 @@
+In this room you will learn how to manually review a web application for security issues using only the in-built tools in your browser. More often than not, automated security tools and scripts will miss many potential vulnerabilities and useful information.
+
+
+Task 3
+Answer the questions below
+
+What is the flag from the HTML comment?
+Answer: THM{HTML_COMMENTS_ARE_DANGEROUS}
+
+What is the flag from the secret link?
+Answer: THM{NOT_A_SECRET_ANYMORE}
+
+What is the directory listing flag?
+Answer: THM{INVALID_DIRECTORY_PERMISSIONS}
+
+What is the framework flag?
+Answer: THM{KEEP_YOUR_SOFTWARE_UPDATED}
+
+
+Task 4
+Answer the questions below
+
+What is the flag behind the paywall?
+Answer: THM{NOT_SO_HIDDEN}
+
+
+Task 5
+Answer the questions below
+
+What is the flag in the red box?
+Answer: THM{CATCH_ME_IF_YOU_CAN}
+
+
+Task 6
+Answer the questions below
+
+What is the flag shown on the contact-msg network request?
+Answer: THM{GOT_AJAX_FLAG}
