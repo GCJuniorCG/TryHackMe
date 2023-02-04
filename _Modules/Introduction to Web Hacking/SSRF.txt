@@ -1,0 +1,48 @@
+In this room, you'll learn what an SSRF is, what kind of impact they can have, you'll view some example SSRF attacks, how you can discover SSRF vulnerabilities, how to circumvent input rules and then we have a practice for you against with to try your newfound skills.
+
+
+Task 1
+Answer the questions below
+
+What does SSRF stand for?
+Answer: Server-Side Request Forgery
+
+As opposed to a regular SSRF, what is the other type?
+Answer: Blind
+
+
+Task 2
+Answer the questions below
+
+What is the flag from the SSRF Examples site?
+Answer: THM{SSRF_MASTER}
+
+
+Task 3
+Answer the questions below
+
+What website can be used to catch HTTP requests from a server?
+Answer: requestbin.com
+
+
+Task 4
+Answer the questions below
+
+What method can be used to bypass strict rules?
+Answer: Open Redirect
+
+What IP address may contain sensitive data in a cloud environment?
+Answer: 169.254.169.254
+
+What type of list is used to permit only certain input?
+Answer: Allow List
+
+What type of list is used to stop certain input?
+Answer: Deny List
+
+
+Task 5
+Answer the questions below
+
+What is the flag from the /private directory?
+Answer: THM{YOU_WORKED_OUT_THE_SSRF}
